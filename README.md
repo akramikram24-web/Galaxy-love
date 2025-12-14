@@ -20,7 +20,7 @@
 
 ## 🚀 Live Preview
 <p align="center">
-  <img alt="kiki.jpg" src="gif.gif"/>
+  <kiki.jpg alt="kiki.jpg" src="gif.gif"/>
 </p>
 
 </p>
