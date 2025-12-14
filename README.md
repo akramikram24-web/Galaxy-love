@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img width="1919" height="515" alt="image" src="https://github.com/user-attachments/assets/e446dab6-419b-41d1-b020-2ef6ec121559" />
+  <img width="1919" height="515" alt="kiki.jpg" src="https://github.com/user-attachments/assets/e446dab6-419b-41d1-b020-2ef6ec121559" />
 </p>
 
 <h1 align="center">🌌 Galaxy-Love 💫</h1>
